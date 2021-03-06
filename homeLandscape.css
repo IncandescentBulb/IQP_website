@@ -17,11 +17,7 @@ html, body{
 
 }
 header {
-	 /*ont-family: *//*"Bebas Neue script=latin rev=1"; font-weight: 400; font-style: normal;" Futura, Trebuchet MS;*/
-	 font-family: 'BebasNeueRegular';
-
-
-
+	 font-family: Futura, Trebuchet MS;
 	 font-weight: bold condensed;
 	 /*color: #FF0000;*/ 
 	 font-size: 25px;
