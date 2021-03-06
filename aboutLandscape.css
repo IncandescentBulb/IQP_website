@@ -27,28 +27,28 @@ header {
 
 }
 h1 {
-	 font-family: Futura, Trebuchet MS;
-	 font-weight: bold;
+	 font-family: 'BebasNeueRegular';
+	 font-weight: 500;
 	 
-	 font-size: 22px;
+	 font-size: 48px;
 	 /*padding:5px;*/
 	 text-align:center;
 
 }
 h3 {
-	 font-family: Futura, Trebuchet MS;
-	 font-weight: bold;
+	 font-family: 'BebasNeueRegular';
+	 font-weight: 500;
 	 color:white;
-	 font-size: 22px;
+	 font-size: 48px;
 	 /*padding:5px;*/
 	 text-align:center;
-
+	 margin-bottom: 0;
 }
 h2 {
-	 font-family: Futura, Trebuchet MS;
-	 font-weight: bold;
+	 font-family: 'BebasNeueRegular';
+	 font-weight: normal;
 	 color:#7a7a7a;
-	 font-size: 20px;
+	 font-size: 48px;
 	 /*padding:5px;*/
 	 text-align:center;
 
@@ -73,8 +73,8 @@ footer {
 	 margin-top: 40px;*/
 }
 p{
-	margin-left: 150px;
-	margin-right:150px;
+	margin-left: 200px;
+	margin-right:200px;
 }
 #content {
     /*padding:3px;*/
@@ -160,7 +160,7 @@ nav li:active {
 
 
 body,html, .hero-image{
-	height: 450px;
+	height: 550px;
 	width:1519.2px;
 	background-image: url('Exhibit Footer.jpg');
 	background-position: bottom;
@@ -189,6 +189,8 @@ body,html, .hero-image{
   overflow: hidden;
   color:#a3a3a3;
    text-decoration: none;
+   font-family: 'BebasNeueRegular';
+   font-size: 24px;
   /*width:100%;*/
 }
 .bottomnav a:hover {
@@ -200,4 +202,12 @@ body,html, .hero-image{
 	text-align: center;
 	display:block;
 	margin: 10px auto 20px;
+}
+
+.credits{
+	margin-bottom: 150px;
+}
+.projectDesc{
+	margin-bottom: 100px;
+	text-align: left;
 }
