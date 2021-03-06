@@ -73,8 +73,8 @@ footer {
 	 margin-top: 40px;*/
 }
 p{
-	margin-left: 200px;
-	margin-right:200px;
+	margin-left: 200px; margin-right:200px;
+	font-family: 'Agency FB', arial; font-size:24;
 }
 #content {
     /*padding:3px;*/
